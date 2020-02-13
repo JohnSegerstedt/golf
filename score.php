@@ -122,6 +122,8 @@ if(isset($_GET['n4'])){if($_GET['n4'] != null){$_SESSION['ar4'][$pset] = $_GET['
 if(isset($_GET['n5'])){if($_GET['n5'] != null){$_SESSION['ar5'][$pset] = $_GET['n5'];}}
 if(isset($_GET['n6'])){if($_GET['n6'] != null){$_SESSION['ar6'][$pset] = $_GET['n6'];}}
 
+/*
+
 //antal
 echo "antal = ";
 echo $antal;
@@ -159,6 +161,9 @@ if(isset($_SESSION['s1'])){
 }else{
 	echo "not set";}
 echo "<br>";
+
+*/
+
 
 if($antal  == null && $s1 == null){ ?>
 
