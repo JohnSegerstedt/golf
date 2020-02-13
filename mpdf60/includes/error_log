@@ -1,0 +1,2 @@
+[15-Aug-2016 03:38:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/john/public_html/golf/mpdf60/includes/upperCase.php on line 2
+[15-Aug-2016 16:07:27 UTC] PHP Fatal error:  Using $this when not in object context in /home/john/public_html/golf/mpdf60/includes/CJKdata.php on line 18

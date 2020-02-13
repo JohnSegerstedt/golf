@@ -1,0 +1,88 @@
+*{
+font-family:"Palatino Linotype";
+font-size:large;
+}
+
+body{
+background-color:#ffffff;
+
+}
+
+input {
+width: 100%;
+}
+
+.stor{
+font-size:300%;
+}
+
+.hyfsat{
+font-size:150%;
+}
+
+.medel{
+font-size:200%;
+}
+
+input[type=submit]{
+width:95%;
+}
+
+#wrapper1{
+padding:1%;
+}
+
+#wrapper2{
+background-color:white;
+border:25px groove #cc0000;
+padding: 10px;
+overflow:auto;
+min-height:350px;
+padding-right:10%;
+}
+
+img{
+width:100%;
+}
+
+#submit{
+}
+
+#knapp{
+}
+
+.button {
+background-color: #FF0000;
+color: white;
+padding: 0px 20px 5px 20px;
+margin-bottom:5px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 50px;
+height:65px;
+width:100%;
+}
+
+#wrapper3{
+border:5px groove #cc0000;
+padding: 5px;
+overflow:auto;
+background-color:#D3D3D3;
+}
+
+#left{
+float:left;
+width:33%;
+}
+
+#right{
+padding-left:35%;
+margin-right:8%;
+}
+
+#top{
+padding: 10px 0 0 5px;
+float:right;
+width:63%;
+}

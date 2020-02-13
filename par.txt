@@ -1,0 +1,18 @@
+5-3-4-4-6-4-3-4-4-5-5-4-4-3-4-5-4-5-6-
+
+Den första siffran är de antal slag som läggs på på par-et
+för att skapa ett max-värde. Exempelvis: Jag slår alldeles för många
+slag på ett "Par 4"-hål -> jag skriver in 4+(detta värde) i scorekortet,
+ex: par 3 hål -> 8 slag är max
+ex: par 4 hål -> 9 slag är max
+ex: par 5 hål -> 10 slag är max
+Då är "siffran" 5 så skillnaden
+mellan paren och max-värdet är 5.
+
+De följande 18 siffrorna är paren på varje hål.
+Man kan lätt ändra par-en på hålen genom att
+ändra dessa siffror. Dock är det EXTREMT viktigt
+att man har ett "-" mellan varje siffra.
+Ser första raden inte ut på detta sättet, ex:
+5-3-4-4-6-4-3-4-4-5-5-4-4-3-4-5-4-5-6-
+kommer sidan EJ ATT FUNGERA.
